@@ -1,4 +1,4 @@
 # digitalanuj-demo
 My First Git Repository.
 <br>
-Author - Anuj Manwatkar 
+Author - Anuj (Digital Anuj)
